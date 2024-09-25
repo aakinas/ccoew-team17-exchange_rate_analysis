@@ -31,8 +31,11 @@ Data Source: CSV files loaded with Pandas
 1.Use Google Collab 
 2.Import the necessary csv files provided in the repository
 3.Install the necessary libraries
+
    !pip install dash pandas plotly flask-ngrok
+   
    !pip install dash-bootstrap-components
+   
 4.Run the program provided in the repository 
 
 #Built With:
@@ -71,7 +74,7 @@ Line chart displaying volatility trends over time.
 
 1.Data Loading:
 
-CSV files for each year from 2012 to 2024 are loaded and converted to Pandas DataFrames.
+CSV files for each year from 2012 to 2024 are loaded and converted to Pandas DataFrames.(2023 & 2024 made by group.)
 The Date columns are converted to datetime format for easy manipulation.
 2.User Interface:
 
