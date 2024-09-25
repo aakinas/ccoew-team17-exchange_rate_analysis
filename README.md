@@ -1,7 +1,7 @@
 ***Project Overview****
 
 PROJECT_VIDEO:
-https://drive.google.com/file/d/1t3H-BmIVdaaldjL4VJqqGMaMXbh_deR0/view?usp=drive_web
+[https://drive.google.com/file/d/1t3H-BmIVdaaldjL4VJqqGMaMXbh_deR0/view?usp=drive_web](https://drive.google.com/drive/folders/1exhwcFGCza_qIHoUYhRMSihUfPScTmNg?usp=sharing)
 
 OUTPUT_SCREENSHOTS:
 https://drive.google.com/drive/folders/1ySCzPVqVXNrtcKi2r9RVyEhROjCmFWlW?usp=sharing&authuser=1
