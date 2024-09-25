@@ -1,5 +1,8 @@
 ***Project Overview****
 
+PROJECT_VIDEO:
+https://drive.google.com/file/d/1t3H-BmIVdaaldjL4VJqqGMaMXbh_deR0/view?usp=drive_web
+
 This project is a Python-based Dashboard built using the Dash framework. The application allows users to analyze historical currency exchange rates and explore custom currency baskets with user-defined weights. Additionally, the app provides a risk indicator that measures the volatility of exchange rates over different time periods. The dashboard is ideal for users who wish to track exchange rates across different years and visualize trends using interactive charts.
 
 #Features:
